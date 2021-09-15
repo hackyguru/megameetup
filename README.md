@@ -18,6 +18,7 @@ Mega meetup also has an IPFS implementation. The admin can share tickets to the 
 The team consists of 2 developers. The details are listed below :
 
 Team member #1
+<br>
 Name : Kumaraguru T
 <br>
 GitHub : [@hackyguru](https://github.com/hackyguru)
@@ -27,8 +28,11 @@ Email : 19eucs071@skcet.ac.in
 Role : Full stack developer with experience in web3 and dapps.
 
 Team member #2
+<br>
 Name : Bhuvanesh TG
+<br>
 Github: [@bhuvi100](https://github.com/bhuvi100)
+<br>
 Role : Full stack developer.
 
 ## Time Requirements
