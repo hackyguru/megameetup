@@ -19,8 +19,11 @@ The team consists of 2 developers. The details are listed below :
 
 Team member #1
 Name : Kumaraguru T
+<br>
 GitHub : [@hackyguru](https://github.com/hackyguru)
+<br>
 Email : 19eucs071@skcet.ac.in
+<br>
 Role : Full stack developer with experience in web3 and dapps.
 
 Team member #2
